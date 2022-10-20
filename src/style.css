@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.image{
+    height: 20px;
+}
+.shopList{
+    margin: 0px 20px 0px 300px;
+    width: 950px;
+    flex-wrap: wrap;
+   height: 500px;
+   display: flex;
+   justify-content: space-between;
+}
+.list{
+    width: 300px;
+}
+.text{
+    display: flex;
+}
